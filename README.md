@@ -10,4 +10,3 @@
 ##MockUp Link
 [MockUp](https://www.figma.com/file/Sexmbf37OkjnKe5NnM1iKn/MockUp?node-id=0%3A1&t=lSGWH5BhDhDnJbMa-1)
 
-![ScreenShot](https://user-images.githubusercontent.com/84791995/221648059-ccfc5622-e41d-4bc0-9a80-f9a12cb4eb60.png)
